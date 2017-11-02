@@ -13,7 +13,7 @@ smtp_address = 'smtp_address'
 smtp_port = 465
 title_xpath = '//*[@id="deal-of-the-day"]/div/div/div[2]/div[2]/h2/text()'
 cover_xpath = '//*[@id="deal-of-the-day"]/div/div/div[1]/a/img/@data-original'
-packt_page = 'https://www.packtpub.com//packt/offers/free-learning'
+packt_page = 'https://www.packtpub.com/packt/offers/free-learning'
 user_agent = 'curl/7.56.0'
 
 headers = {'User-Agent': user_agent}
